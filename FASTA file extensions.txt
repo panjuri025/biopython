@@ -1,0 +1,12 @@
+Extension | Format Name | Description
+.fasta, .fa, .fna, .ffn, .faa, .frn | FASTA | Most widely used format for DNA/protein sequences. Starts with > header.
+.fastq, .fq | FASTQ | Like FASTA but includes quality scores (used in sequencing).
+.gb, .gbk | GenBank | Rich format with annotations, used by NCBI.
+.embl | EMBL | European Bioinformatics format, similar to GenBank.
+.sam, .bam | SAM/BAM | Sequence alignment data (BAM is compressed binary version of SAM).
+.vcf | VCF | Variant Call Format for storing gene variation data (like SNPs).
+.gff, .gff3, .gtf | GFF/GTF | Gene annotation formats (features like exons, CDS, etc.).
+.txt, .seq | Plain Sequence | Often simple text format for raw sequences; .seq is not standardized.
+.nex, .nexus | Nexus | Used in phylogenetics, supports multiple data types.
+.aln, .clustal | Clustal | Multiple sequence alignment files.
+.phy, .phylip | Phylip | Another phylogenetic format.
